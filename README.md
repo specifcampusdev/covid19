@@ -4,6 +4,7 @@
 
 + [Ministère de l'enseignement supérieur, de la recherche et de l'innovation (MESRI)](https://www.enseignementsup-recherche.gouv.fr/cid149997/covid-19-informations-recommandations-ressources-accompagnement.html)
 + [Direction générale de l'enseignement supérieur et de l'insertion professionnelle (DGESIP)](https://services.dgesip.fr/T712/covid_19)
++ [Commission européenne H2020](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/faq;type=1;categories=;programme=H2020;actions=;keyword=COVID-19%20outbreak)
 
 ## Mesures prises dans les établissement
 
