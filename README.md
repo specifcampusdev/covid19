@@ -17,7 +17,12 @@ dans les établissements.
 
 ### Visioconférences
 
-+ [Jitsi](http://jitsi.org) visio, tchat, enregistrement
++ [Jitsi (RendezVous de RENATER)](http://jitsi.org) visio, tchat, enregistrement
+    + [Guide d'installation](https://github.com/jitsi/jitsi-meet/blob/master/doc/quick-install.md)
+    + [Installation derrière un proxy](https://debamax.com/blog/2020/03/18/installing-jitsi-behind-a-reverse-proxy/)
+    + Tutoriels [ici](https://adn56.net/wiki/index.php?title=La_visio_conférence) et [là](https://cloud.yggz.org/index.php/s/QZc38o8bT2YCWm6#pdfviewer)
+    
++ [BigBlueButton](https://bigbluebutton.org) orienté enseignement (création de groupes, tableau blanc)
 
 ### Discussions instantanées
 
