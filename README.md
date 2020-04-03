@@ -10,6 +10,12 @@
 
 + [Position de la CTI pour les stages](https://www.cti-commission.fr/consequences-episode-coronavirus-2)
 
+## Concours
+
++ [Candidatures MCF/PR étendues jusqu'au 9 avril à 16h](https://www.galaxie.enseignementsup-recherche.gouv.fr/ensup/candidats.html)
++ [Concours CR/DR CNRS reportés](http://www.cnrs.fr/fr/cnrsinfo/coronavirus-informations-aux-personnels)
++ [Concours CR/DR INRIA suspendus](https://www.inria.fr/fr/les-campagnes-et-concours-de-recrutements-scientifiques-sont-suspendus)
+
 ## Outils pour maintenir la continuité pédagogique
 
 Les outils suivants peuvent être utilisés dans le cadre de la continuité des activités, en enseignement ou en recherche.
@@ -24,6 +30,7 @@ dans les établissements.
     + Tutoriels [ici](https://adn56.net/wiki/index.php?title=La_visio_conférence) et [là](https://cloud.yggz.org/index.php/s/QZc38o8bT2YCWm6#pdfviewer)
     
 + [BigBlueButton](https://bigbluebutton.org) orienté enseignement (création de groupes, tableau blanc)
+    + [Présentation](https://cousquer.github.io/BBB/#/)
 
 ### Discussions instantanées
 
