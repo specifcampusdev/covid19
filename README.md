@@ -50,3 +50,14 @@ Pour la programmation
 ### Création et diffusion de vidéos
 
 + [Open Broadcaster Software](https://obsproject.com)
+
+## Recommandations
+
+### Continuité pédagogique
+
+- [Université Numérique](https://univ-numerique.fr/ressources/continuite-pedagogique/)
+
+### Télétravail
+
+- [AMUE](http://www.amue.fr/presentation/articles/article/teletravail-on-partage-les-bonnes-pratiques/)
+- [CNIL](https://www.cnil.fr/fr/salaries-en-teletravail-quelles-sont-les-bonnes-pratiques-suivre)
