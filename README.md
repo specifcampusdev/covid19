@@ -47,6 +47,7 @@ dans les établissements.
 + [rextester](https://rextester.com/) un
 	editeur/compilateur/interpreter en ligne, supporte plusieurs
 	langages des programmation, possibilité de coopération 
++ [Ingenious](https://inginious.org) L’UCLouvain développe depuis plusieurs années cette plateforme open source d’aide à l’apprentissage de la programmation (et plus)
 
 ### Création et diffusion de vidéos
 
