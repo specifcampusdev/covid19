@@ -42,6 +42,11 @@ dans les établissements.
 + [Etherpad](https://etherpad.org) approche WYSIWYG
 + [codimd](https://github.com/codimd/server) format markdown
 
+Pour la programmation
++ [rextester](https://rextester.com/) un
+	editeur/compilateur/interpreter en ligne, supporte plusieurs
+	langages des programmation, possibilité de coopération 
+
 ### Création et diffusion de vidéos
 
 + [Open Broadcaster Software](https://obsproject.com)
