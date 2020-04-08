@@ -63,3 +63,4 @@ dans les établissements.
 
 - [AMUE](http://www.amue.fr/presentation/articles/article/teletravail-on-partage-les-bonnes-pratiques/)
 - [CNIL](https://www.cnil.fr/fr/salaries-en-teletravail-quelles-sont-les-bonnes-pratiques-suivre)
+- [Fonction publique](https://www.fonction-publique.gouv.fr/files/files/covid-19/visioconference-les-bons-usages-pour-bien-communiquer.pdf)
