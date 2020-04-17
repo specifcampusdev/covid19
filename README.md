@@ -29,9 +29,10 @@ dans les établissements.
     + [Installation derrière un proxy](https://debamax.com/blog/2020/03/18/installing-jitsi-behind-a-reverse-proxy/)
     + Tutoriels [ici](https://adn56.net/wiki/index.php?title=La_visio_conférence) et [là](https://cloud.yggz.org/index.php/s/QZc38o8bT2YCWm6#pdfviewer)
     + [Documentation pour installation de jitsi respectant la RGPD](https://gitlab.com/jitsi-club/jitsi-self-hosting)
-    
+    + Instances publiques : [meet.jit.si](https://meet.jit.si), [Scaleway](https://ensemble.scaleway.com)
 + [BigBlueButton](https://bigbluebutton.org) orienté enseignement (création de groupes, tableau blanc)
     + [Présentation](https://cousquer.github.io/BBB/#/)
+    + [instance publique](https://bbb.wsweet.cloud)
 
 ### Discussions instantanées
 
