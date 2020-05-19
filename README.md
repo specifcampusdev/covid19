@@ -32,7 +32,7 @@ dans les établissements.
     + Instances publiques : [meet.jit.si](https://meet.jit.si), [Scaleway](https://ensemble.scaleway.com)
 + [BigBlueButton](https://bigbluebutton.org) orienté enseignement (création de groupes, tableau blanc)
     + [Présentation](https://cousquer.github.io/BBB/#/)
-    + [instance publique](https://bbb.wsweet.cloud)
+    + Instances publiques : [OVH](https://bbb.wsweet.cloud), [Scaleway](https://ensemble-bbb.scaleway.com)
 
 ### Discussions instantanées
 
